@@ -28,7 +28,7 @@ class Program
                 case "4":
                     return;
                 default:
-                    Console.WriteLine("Incorreto, digite apenas uma das opções: '1' '2' ou '3' ");
+                    Console.WriteLine("Incorreto, digite apenas uma das opções: '1' '2' '3' ou '4' ");
                     break;
             }
         }
